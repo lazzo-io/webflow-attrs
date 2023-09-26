@@ -1,0 +1,10 @@
+# package directories
+node_modules
+jspm_packages
+
+package-lock.json
+
+out-logger.json
+
+.DS_Store
+.vscode/settings.json
